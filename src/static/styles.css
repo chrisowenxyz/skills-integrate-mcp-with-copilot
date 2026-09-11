@@ -24,6 +24,18 @@ header {
   border-radius: 5px;
 }
 
+#auth-controls {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+#auth-status {
+  font-size: 0.9rem;
+}
+
 header h1 {
   margin-bottom: 10px;
 }
